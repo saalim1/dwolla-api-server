@@ -6,13 +6,6 @@ Dwolla V2 Node client.
 
 [API Documentation](https://docsv2.dwolla.com)
 
-## Installation
-
-`dwolla-v2` is available on [NPM](https://www.npmjs.com/package/dwolla-v2).
-
-```
-npm install dwolla-v2
-```
 
 ## `dwolla.Client`
 
